@@ -8,6 +8,5 @@ Soy Sauce: Soy sauce is a key ingredient to this recipe’s sauce, providing tha
 Honey: Honey adds a gentle sweetness to the teriyaki meatball sauce.
 Vinegar: Vinegar adds flavor and an acidity that complements the other ingredients and helps cut through some of the richness.
 Garlic powder: Convenient and ready to use, garlic powder is a more subtle and concentrated alternative to fresh garlic.
-Green onions (optional): An optional “pop of color” to garnish your meatballs, if desired
 
-Refrence(URL): https://www.tasteofhome.com/recipes/teriyaki-meatballs/.
+Refrence(URL): https://www.tasteofhome.com/recipes/teriyaki-meatballs/
